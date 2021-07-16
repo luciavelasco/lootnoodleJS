@@ -1,3 +1,5 @@
+//This code is written and maintained by Zachary Dix
+
 function getRandomInt(max) { //return number from 1 to max
 	return Math.floor(Math.random() * max) + 1;
 }
