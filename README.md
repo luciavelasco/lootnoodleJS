@@ -4,3 +4,5 @@ This contains all magical items from the Dungeon Master's Guide, Xanathar's Guid
 
 The command: "!loot [challenge rating of treasure hoard]"
 Example: !loot 3
+
+If you wish to contribute to this project, contact me and we can talk about it.
