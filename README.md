@@ -5,5 +5,7 @@ This contains all magical items from the Dungeon Master's Guide, Xanathar's Guid
 The command: "!loot [challenge rating of treasure hoard]"
 Example: !loot 3
 
+To use the script, simply copy the entire contents of the file (yes the entire thing) and paste it into a new roll20 script tab named 'lootnoodle'.
+
 If you wish to contribute to this project, contact me and we can talk about it.
 https://www.reddit.com/user/zacharydix
