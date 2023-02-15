@@ -2601,8 +2601,8 @@ const crList = [
   { label: `CR17 and higher`, lootTable: crLoot17orHigher, max: 10000000 }
 ];
 
-const rollAllTables = () =>
-  crList.map(({ label, lootTable }) => `${label}:\n${lootTable()}`).join(`\n\n`);
+const rollAllTables = () => crList.map(({ label, lootTable }) =>
+                                       `${label}:\n${lootTable()}`).join(`\n\n`);
 
 const rollATable = (crTable = crList[rollD(crList.length) - 1]) => `${label}:\n${lootTable()}`;
 
